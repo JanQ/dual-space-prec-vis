@@ -1,7 +1,7 @@
 # Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems
-
+[[`arXiv`](https://arxiv.org/abs/2611.13916)]
 This repository contains the code for the numerical experiments of the paper:
-> **Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems**
+> [**Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems**](https://arxiv.org/abs/2611.13916)
 >
 > Jan Quan, Konstantinos Oikonomidis, Alexander Bodard, Panagiotis Patrinos
 
